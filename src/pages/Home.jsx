@@ -69,7 +69,7 @@ const Home = () => {
                         scents that resonate with their unique personality and style. Our
                         dedicated team of fragrance enthusiasts is committed to creating a
                         welcoming and inclusive environment, where connections are
-                        forged, and inspiration thrives.
+                        forged, and inspiration trives.
                     </p>
 
                     <p className="text-[18px] text-gray-300 leading-[30px]">
