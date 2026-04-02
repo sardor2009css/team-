@@ -76,7 +76,7 @@ const Home = () => {
                         Embracing sustainability and continuous learning, Local Face
                         strives to be more than just a shopping destination; we are a
                         community that inspires and empowers individuals on their
-                        fragrance journe
+                        fragrance journey
                     </p>
                 </div>
             </section>

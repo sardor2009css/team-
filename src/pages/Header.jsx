@@ -18,10 +18,10 @@ const Header = () => {
                 </div>
 
                 <div className="flex gap-[25px] items-center">
-                    <button>🔍</button>
-                    <button>👤</button>
-                    <button>❤️</button>
-                    <button>👜</button>
+                    <img src="./search.png" alt="" />
+                    <img src="./user.png" alt="" />
+                    <img src="./heart.png" alt="" />
+                    <img  src="./shopping-bag.png" alt="" />
                 </div>
             </nav>
             <Outlet />
