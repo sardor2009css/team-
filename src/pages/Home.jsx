@@ -53,7 +53,7 @@ const Home = () => {
                 <div className="w-[770px] h-[670px] flex-shrink-0">
                     <img
                         src="/values.png"
-                        alt=" "
+                        alt=""
                         className="w-full h-full object-cover"
                     />
                 </div>

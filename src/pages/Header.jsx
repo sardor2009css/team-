@@ -11,10 +11,10 @@ const Header = () => {
 
                 <div className="flex gap-[40px] text-[16px] text-gray-300">
                     <a href="/" className="hover:text-white">Home</a>
-                    <a href="#" className="hover:text-white">Shop</a>
-                    <a href="#" className="hover:text-white">About us</a>
-                    <a href="#" className="hover:text-white">Services</a>
-                    <a href="#" className="hover:text-white">Blog</a>
+                    <a href="" className="hover:text-white">Shop</a>
+                    <a href="" className="hover:text-white">About us</a>
+                    <a href="" className="hover:text-white">Services</a>
+                    <a href="" className="hover:text-white">Blog</a>
                 </div>
 
                 <div className="flex gap-[25px] items-center">
