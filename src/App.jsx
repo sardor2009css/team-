@@ -1,9 +1,10 @@
 import React from 'react'
+import Hamidulloh from './Hamidulloh'
 
 const App = () => {
   return (
     <div>
-      <h1 className='text-red-500'>test</h1>
+      <Hamidulloh/>
     </div>
   )
 }
