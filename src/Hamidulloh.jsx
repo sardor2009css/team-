@@ -144,7 +144,7 @@ const Hamidulloh = () => {
                         <input name="category" placeholder="Category" onChange={handleInputChange} />
                         <textarea name="description" placeholder="Description" onChange={handleInputChange} required />
 
-                        <input type="file" onChange={handleImageChange} />
+                        <input type="file" onChange={handleImageChange} />ssw
 
                         <button disabled={loading} className="bg-black text-white py-2">
                             {loading ? "Loading..." : "Save"}
